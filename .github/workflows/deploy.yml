@@ -1,0 +1,7 @@
+# Name of the workflow
+name: Render Deploy
+
+# Trigger workflow on all pull requests
+on:
+  push:
+    branches: [main]
