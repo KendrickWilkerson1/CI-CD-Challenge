@@ -3,9 +3,9 @@ name: Github workflow
 
 # Trigger workflow on all pull requests
 on:
-#   push:
-#     branches: 
-#       - main
+  push:
+    branches: 
+      - main
   pull_request:
     branches:
       - develop
