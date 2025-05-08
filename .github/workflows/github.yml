@@ -1,4 +1,4 @@
-# Name of the workflow
+# Name of workflow
 name: Github workflow
 
 # Trigger workflow on all pull requests
